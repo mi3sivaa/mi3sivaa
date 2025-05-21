@@ -1,23 +1,15 @@
-**- 👋 Hi, I’m @mi3sivaa**  
-*AKA Mie, the perpetually stressed magical girl who accidentally time-traveled into a GitHub profile. I’m here to protect you from bad code… and also to ask if anyone’s seen my sword. (It’s 90% caffeine-powered, 10% existential dread.)*  
-
-**- 👀 I’m interested in…**  
-*Chasing down rogue pull requests, slaying bugs bigger than my ego, and pretending I understand modern technology. (“Wait, the *Discord* is a what now?”)*  
-
-**- 🌱 I’m currently learning…**  
-*How to adult. How to *git* rekt. How to explain to the Round Table devs why I *might’ve* accidentally deleted the staging environment. (It was a *tiny* Excalibur-shaped accident.)*  
-
-**- 💞️ I’m looking to collaborate on…**  
-*Quests for the Holy Grail… or at least a coffee machine that doesn’t judge me. Teamwork makes the dream work, unless you’re a backstabbing ally. Then it’s just a duel at dawn. Bring snacks.*  
-
-**- 📫 How to reach me…**  
-*Summon me with a 🐉 emoji or a sufficiently dramatic crisis. Pings are fine, but I’ll probably misinterpret them as a challenge to arm-wrestle. You’ve been warned.*  
-
-**- 😄 Pronouns:**  
-*She/her, unless I’m in armor. Then it’s “Your Highness” or “M’lady” to you.*  
-
-**- ⚡ Fun fact:**  
-*I once dueled a dragon. Lost my armor. Found a bakery. Now I’m 70% pastry cream, 30% denial. Don’t test my patience before my third latte.*  
-
----  
-*P.S. If you see a suspiciously noble-looking woman lurking in the commit logs, it’s probably just me. I swear I didn’t break anything. (This time.)* 🤞
+- 👋 Hi, I’m @[YourUsername]
+AKA [Your Nickname, if you have one], a Heroic Spirit of the Coder-class, mistakenly pulled from the Throne of Heroes into this… GitHub thing. My legend? I once fixed a bug on a Friday afternoon. My greatest shame? The time I accidentally committed directly to main.
+- 👀 I’m interested in…
+Battling the monstrous Bugs that plague the digital world. Forging mighty Artifacts (read: elegant functions). And deciphering the ancient runes of legacy code without losing my sanity.
+- 🌱 I’m currently learning…
+The lost art of optimal mana distribution (read: efficient resource management). How to properly wield a Debugger-Chainsaw. And the true meaning of "Git Rebase" without invoking a timeline paradox.
+- 💞️ I’m looking to collaborate on…
+Quests to achieve the Holy Grail of perfect software. Seeking fellow Servants (any class, though Caster for debugging and Saber for brute-force refactoring are preferred) to join my Chaldea (read: dev team).*
+- 📫 How to reach me…
+Fling a Noble Phantasm (read: email) my way, or challenge me to a Duel (read: pair programming session). Just don't ask me to choose between JavaScript and Python – that's a class advantage I haven't figured out yet.
+- 😄 Pronouns:
+She/her, unless I've just written a particularly clean block of code, then it's "The Legendary One."
+- ⚡ Fun fact:
+My personal skill is "Accidental rm -rf," which I've somehow mastered over the years. My NP is "Excali-Bug," which usually just makes things worse, but with style.
+Which epic tale of coding prowess (or lack thereof) best captures your spirit?
