@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mi3sivaa
-AKA [Your Nickname, if you have one], a Heroic Spirit of the Coder-class, mistakenly pulled from the Throne of Heroes into this… GitHub thing. My legend? I once fixed a bug on a Friday afternoon. My greatest shame? The time I accidentally committed directly to main.
+AKA mie, a Heroic Spirit of the Coder-class, mistakenly pulled from the Throne of Heroes into this… GitHub thing. My legend? I once fixed a bug on a Friday afternoon. My greatest shame? The time I accidentally committed directly to main.
 - 👀 I’m interested in…
 Battling the monstrous Bugs that plague the digital world. Forging mighty Artifacts (read: elegant functions). And deciphering the ancient runes of legacy code without losing my sanity.
 - 🌱 I’m currently learning…
